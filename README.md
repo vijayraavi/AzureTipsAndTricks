@@ -3,9 +3,6 @@ title: Welcome
 type: post
 ---
 
-<style type="text/css" rel="stylesheet">
-    img { border-radius: 50% }
-</style>
 
 # Welcome
 
